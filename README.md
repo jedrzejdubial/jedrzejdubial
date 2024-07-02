@@ -1,4 +1,4 @@
 - 👋 Hi, I'm Jędrzej!
-- 👀 Interested in learning web & ios dev.
-- 🌱 I’m currently learning JavaScript. lmao. you know, the beginnings.
+- 👀 Interested in web & ios dev.
+- 🌱 I’m currently learning JavaScript. I know how that sounds.
 - 📚 Current tech stack: HTML, CSS.
