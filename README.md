@@ -1,4 +1,4 @@
 - 👋 Hi, I'm Jędrzej!
 - 👀 Interested in web & ios dev.
-- 🌱 I’m currently learning JavaScript.
-- 📚 Current knowledge: HTML, CSS and Git.
+- 🌱 I’m currently learning Astro.
+- 📚 Current knowledge: HTML, CSS, JS, Git, Tailwind.
