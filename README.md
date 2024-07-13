@@ -1,4 +1,4 @@
 - 👋 Hi, I'm Jędrzej!
-- 👀 Interested in web & ios dev.
+- 👀 Interested in web dev.
 - 🌱 I’m currently building my first notes app. You can check it out on my profile!
 - 📚 Current tech stack: Astro, Tailwind.
