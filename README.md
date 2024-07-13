@@ -1,4 +1,4 @@
 - 👋 Hi, I'm Jędrzej!
 - 👀 Interested in web & ios dev.
-- 🌱 I’m currently learning Astro.
-- 📚 Current knowledge: HTML, CSS, JS, Git, Tailwind.
+- 🌱 I’m currently building Truss Tool. You can check it out on my profile!
+- 📚 Current tech stack: Astro, Tailwind.
