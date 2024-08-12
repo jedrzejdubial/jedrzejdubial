@@ -1,3 +1,1 @@
-- 👋 Hi, I'm Jędrzej!
-- 👨‍💻 Junior web developer
-- 🏗️ Currently building notes.app
+- 🏗️ Currently building truss-tool
