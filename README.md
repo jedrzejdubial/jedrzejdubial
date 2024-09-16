@@ -1,5 +1,6 @@
 👨‍💻 Junior Full-Stack Web Developer
-🏗️ Currently building notes.app - a simple notetaking webapp
+
+🏗️ Currently building truss-tool
 
 🛠️ Tech skills:
 
