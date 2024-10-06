@@ -2,7 +2,7 @@
 
 🏗️ Currently building truss-tool, a web app that helps create and manage advanced truss projects
 
-# 🛠️ Tech skills:
+🛠️ Tech skills:
 
 🖥️ Frontend:
 - Next.js & React - Intermediate
