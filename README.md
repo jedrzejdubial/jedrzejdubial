@@ -1,6 +1,6 @@
 👨‍💻 Junior Full-Stack Web Developer
 
-🏗️ Currently building truss-tool, a web app that helps create and manage advanced truss projects
+🏗️ Currently building chats.app, a decentralized app for chatting.
 
 🛠️ Tech skills:
 
